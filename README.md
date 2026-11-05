@@ -31,3 +31,7 @@ tls-inventory --hosts ./domains.txt --expiry-warn 30d \
 ## License
 
 MIT
+
+---
+
+Archived on 2026-11-05. The idea moved to [certcheck](https://github.com/moveeeax/certcheck/issues/16).
